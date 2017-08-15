@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace di_example
 {
-    class Welcome
+    public class Welcome
     {
         public Welcome(IGreeting message)
         {

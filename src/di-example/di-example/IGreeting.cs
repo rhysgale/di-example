@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace di_example
 {
-    interface IGreeting
+    public interface IGreeting
     {
         void Greet();
     }

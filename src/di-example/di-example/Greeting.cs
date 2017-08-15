@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace di_example
 {
-    class Greeting : IGreeting
+    public class Greeting : IGreeting
     {
         public void Greet()
         {
